@@ -155,4 +155,4 @@ with st.expander("🤔 Preguntas y respuestas sobre Random Forest"):
 
 # Footer
 st.markdown("---")
-st.markdown("🔬 **Desarrollado con Streamlit y scikit-learn** | 🌳 **Random Forest ML System**")
+st.markdown("🔬 **Desarrollado con Streamlit y scikit-learn** | 🌳 **Random Forest ML System.**")
